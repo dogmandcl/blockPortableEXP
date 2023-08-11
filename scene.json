@@ -2,14 +2,14 @@
 	"ecs7": true,
 	"runtimeVersion": "7",
 	"display": {
-		"title": "SDK7 Scene Template",
+		"title": "SDK7 Block Portable Experiences Scene Template",
 		"description": "template scene with SDK7",
 		"navmapThumbnail": "images/scene-thumbnail.png",
 		"favicon": "favicon_asset"
 	},
-	"owner": "",
+	"owner": "DOGMAN",
 	"contact": {
-		"name": "SDK",
+		"name": "DOGMAN",
 		"email": ""
 	},
 	"main": "bin/index.js",
